@@ -1,0 +1,1 @@
+# kco_altium_templates
