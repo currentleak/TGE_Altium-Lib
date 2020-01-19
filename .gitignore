@@ -1,0 +1,18 @@
+*.*Preview
+*.PrjPCBStructure
+*.*_loc
+Project Outputs*
+Project Logs*
+History*
+backup
+old
+*_old.*
+*.pdf
+*.zip
+*.xls
+*.xlsx
+*.rep
+*.Cam
+*.htm
+*.lnk
+*.log

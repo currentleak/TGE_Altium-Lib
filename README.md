@@ -1,1 +1,1 @@
-# kco_altium_templates
+# Altium Libraries and Templates
